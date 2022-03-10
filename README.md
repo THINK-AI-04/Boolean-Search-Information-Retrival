@@ -1,1 +1,1 @@
-# Boolean-Search-Information-Retrival-
+# Boolean-Search-Information-Retrieval
